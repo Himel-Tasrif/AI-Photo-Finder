@@ -1,1 +1,2 @@
-## AI Photo Finder
+## AI Photo Finder 
+by Tasrif Nur Himel
