@@ -4,7 +4,7 @@
 
 I'm excited to introduce **AI Photo Finder** – a smart, responsive, and fully-functional web application designed to **transform job applications and recruitment processes** using the power of AI.
 
-🔗 **Live Website**: [Ai-CV-Checker](https://www.aicvchecker.software/)
+🔗 **Live Website**: [Ai Photo Finder](https://photofinder.phigalaxy.com/)
 
 ![AI CV Checker Banner](./Image/cv.png)
 
