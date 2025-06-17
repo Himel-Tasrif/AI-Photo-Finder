@@ -6,7 +6,7 @@ I'm excited to introduce **AI Photo Finder** – a smart, responsive, and fully-
 
 🔗 **Live Website**: [Ai Photo Finder](https://photofinder.phigalaxy.com/)
 
-![AI CV Checker Banner](./Image/cv.png)
+![AI CV Checker Banner](./Images/img.jpg)
 
 ---
 
