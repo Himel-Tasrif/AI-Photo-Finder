@@ -85,7 +85,7 @@ Use it to:
 Interested in licensing, integration, or collaboration?
 
 ➡️ Message me directly  
-➡️ Comment **"AI CV Check"**  
+➡️ Comment **"AI Photo Finder"**  
 ➡️ Or connect here:
 
 -  Email: [himel35-1078@diu.edu.bd](mailto:himel35-1078@diu.edu.bd)  
