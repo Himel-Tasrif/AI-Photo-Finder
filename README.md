@@ -1,4 +1,4 @@
-# AI CV Checker
+# AI Photo Finder
 
 > Revolutionizing Resumes. Empowering Recruiters.
 
