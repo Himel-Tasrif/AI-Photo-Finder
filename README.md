@@ -6,7 +6,7 @@ I'm excited to introduce **AI Photo Finder** – a smart, responsive, and fully-
 
 🔗 **Live Website**: [Ai Photo Finder](https://photofinder.phigalaxy.com/)
 
-![AI CV Checker Banner](./Images/img.jpg)
+![AI Photo Finder Banner](./Images/img.jpg)
 
 ---
 
@@ -17,7 +17,7 @@ As passionate problem-solvers, we noticed two huge pain points in the job market
 1. Job seekers struggle to optimize resumes for each application.
 2. Recruiters waste hours manually screening CVs.
 
-**AI CV Checker** bridges that gap with automation and intelligence.
+**AI Photo Finder** bridges that gap with automation and intelligence.
 
 ---
 
