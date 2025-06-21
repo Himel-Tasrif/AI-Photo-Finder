@@ -1,6 +1,6 @@
 # AI Photo Finder
 
-> Revolutionizing Resumes. Empowering Recruiters.
+> Revolutionizing image. Empowering Recruiters.
 
 I'm excited to introduce **AI Photo Finder** – a smart, responsive, and fully-functional web application designed to **transform job applications and recruitment processes** using the power of AI.
 
