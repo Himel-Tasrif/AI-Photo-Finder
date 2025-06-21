@@ -68,6 +68,14 @@ Before running locally, ensure:
 
 ---
 
+## Getting Started
+
+1. Clone the repo and enter the folder:
+   ```bash
+   git clone https://github.com/Himel-Tasrif/AI-Photo-Finder.git
+   cd AI-Photo-Finder
+   ```
+
 ## Business Opportunity
 
 This AI tool is ready for integration into:
