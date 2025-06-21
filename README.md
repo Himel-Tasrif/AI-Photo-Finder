@@ -29,11 +29,10 @@ Photographers often face delayed requests and confusion when delivering thousand
 - View a gallery of matched images—single or group shots.
 - Download selected photos directly from your device.
 
-### For Recruiters & Companies:
--  Auto-scores and ranks hundreds of resumes instantly
--  Filters top candidates in minutes, not hours
--  One-click email outreach to selected applicants
--  Generates personalized interview questions per candidate
+### For Photographers
+- Upload event galleries in bulk.
+- Rely on face recognition to sort images automatically.
+- Reduce manual customer interaction—instant access improves satisfaction.
 
 ---
 
