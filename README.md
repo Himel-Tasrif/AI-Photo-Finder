@@ -38,10 +38,14 @@ Photographers often face delayed requests and confusion when delivering thousand
 
 ## Tech Stack
 
-- **Frontend**: React (Responsive UI)
-- **Backend**: Python (AI & Logic)
+## 🛠 Tech Stack
 
-Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants and recruiters.
+- **Frontend**: React (responsive across desktop, tablet & mobile)  
+- **Backend**: Flask API (Python 3.10+)  
+- **AI / Vision**: dlib + Face Recognition pre-trained models  
+- **Vector Database**: FAISS for scalable similarity search  
+
+Responsive across **desktop, tablet, and mobile**.
 
 ---
 
