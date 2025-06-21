@@ -108,7 +108,7 @@ Interested in licensing, integration, or collaboration?
 ➡️ Comment **"AI Photo Finder"**  
 ➡️ Or connect here:
 
--  Email: [himel35-1078@diu.edu.bd](mailto:himel35-1078@diu.edu.bd)  
+-  Email: [tasrifnurhimel@gmail.com](mailto:tasrifnurhimel@gmail.com)  
 -  LinkedIn: [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/)
 -  Facebook: [Himel Tasrif](https://www.facebook.com/himeltasrif06)
 
