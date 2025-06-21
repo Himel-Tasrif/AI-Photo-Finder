@@ -11,10 +11,11 @@
 
 ## Why We Built This
 
-As passionate problem-solvers, we noticed two huge pain points in the job market:
+Photographers often face delayed requests and confusion when delivering thousands of pictures. Smart Photo Finder solves this by:
 
-1. Job seekers struggle to optimize resumes for each application.
-2. Recruiters waste hours manually screening CVs.
+1. Allowing users to search using their own photo.
+2. Automatically locating and returning all related images—single or group shots.
+3. Saving hours of manual sorting and emailing each photo.
 
 **AI Photo Finder** bridges that gap with automation and intelligence.
 
