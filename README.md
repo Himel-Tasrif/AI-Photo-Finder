@@ -1,8 +1,7 @@
 # AI Photo Finder
 
-> Revolutionizing image. Empowering Recruiters.
+**AI Photo Finder** is a web app that helps cameras and event photographers streamline photo delivery with AI-powered face recognition. At a large event—like a university convocation or family gathering—hundreds of group and individual shots are taken. Now visitors can quickly find and download their photos using just one sample image.
 
-I'm excited to introduce **AI Photo Finder** – a smart, responsive, and fully-functional web application designed to **transform job applications and recruitment processes** using the power of AI.
 
 🔗 **Live Website**: [Ai Photo Finder](https://photofinder.phigalaxy.com/)
 
