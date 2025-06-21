@@ -68,13 +68,15 @@ Before running locally, ensure:
 
 ---
 
-## Getting Started
 
-1. Clone the repo and enter the folder:
-   ```bash
-   git clone https://github.com/Himel-Tasrif/AI-Photo-Finder.git
-   cd AI-Photo-Finder
-   ```
+## Demo Flow
+
+1. Photographer uploads entire event gallery.  
+2. Attendee visits site and clicks “Find My Photos.”  
+3. Attendee uploads a personal photo.  
+4. FaceAI processes the image and searches gallery via FAISS.  
+5. Matched images are displayed—downloadable in bulk or one by one.
+
 
 ## Business Opportunity
 
