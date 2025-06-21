@@ -21,12 +21,13 @@ Photographers often face delayed requests and confusion when delivering thousand
 
 ---
 
-## What It Does
 
-### For Job Seekers:
--  Instant CV scoring against any job description
--  Identifies missing skills and suggests improvements
--  Predicts likely interview questions tailored to your resume
+## Main Features
+
+### For Event Attendees
+- Upload a selfie or personal photo for instant search.
+- View a gallery of matched images—single or group shots.
+- Download selected photos directly from your device.
 
 ### For Recruiters & Companies:
 -  Auto-scores and ranks hundreds of resumes instantly
