@@ -116,8 +116,7 @@ Interested in licensing, integration, or collaboration?
 
 ## License & Credits
 
-© 2025 [Tasrif Nur Himel](https://www.tasrifnurhimel.me). All rights reserved.
-
+All rights reserved by [Tasrif Nur Himel](https://www.tasrifnurhimel.me).
 Licensed under the [MIT License](./LICENSE).
 
 ---
