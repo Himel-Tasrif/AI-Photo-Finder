@@ -55,7 +55,7 @@ Responsive across **desktop, tablet, and mobile**.
 |--------------|-------------|
 | ![Desktop1](./Image/web.png) | ![Desktop2](./Image/mobile_demo.png) |
 
-**Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1kNqZJOCZfThBXK-FyzlNtbjpNcSACU6J/view?usp=drive_link)
+**Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1S8tKZNIh9N41xr_bAHdEOBA-OTVp3WTH/view?usp=sharing)
 
 ---
 
